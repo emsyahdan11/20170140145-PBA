@@ -1,0 +1,22 @@
+F:\TUGAS\Semester 2\LTP\nAge\nAge\bin\Debug\netcoreapp2.0\nAge.deps.json
+F:\TUGAS\Semester 2\LTP\nAge\nAge\bin\Debug\netcoreapp2.0\nAge.runtimeconfig.json
+F:\TUGAS\Semester 2\LTP\nAge\nAge\bin\Debug\netcoreapp2.0\nAge.runtimeconfig.dev.json
+F:\TUGAS\Semester 2\LTP\nAge\nAge\bin\Debug\netcoreapp2.0\nAge.dll
+F:\TUGAS\Semester 2\LTP\nAge\nAge\bin\Debug\netcoreapp2.0\nAge.pdb
+F:\TUGAS\Semester 2\LTP\nAge\nAge\obj\Debug\netcoreapp2.0\nAge.csprojResolveAssemblyReference.cache
+F:\TUGAS\Semester 2\LTP\nAge\nAge\obj\Debug\netcoreapp2.0\nAge.csproj.CoreCompileInputs.cache
+F:\TUGAS\Semester 2\LTP\nAge\nAge\obj\Debug\netcoreapp2.0\nAge.AssemblyInfoInputs.cache
+F:\TUGAS\Semester 2\LTP\nAge\nAge\obj\Debug\netcoreapp2.0\nAge.AssemblyInfo.cs
+F:\TUGAS\Semester 2\LTP\nAge\nAge\obj\Debug\netcoreapp2.0\nAge.dll
+F:\TUGAS\Semester 2\LTP\nAge\nAge\obj\Debug\netcoreapp2.0\nAge.pdb
+F:\TUGAS\S2\LTP\nAge\nAge\bin\Debug\netcoreapp2.0\nAge.deps.json
+F:\TUGAS\S2\LTP\nAge\nAge\bin\Debug\netcoreapp2.0\nAge.runtimeconfig.json
+F:\TUGAS\S2\LTP\nAge\nAge\bin\Debug\netcoreapp2.0\nAge.runtimeconfig.dev.json
+F:\TUGAS\S2\LTP\nAge\nAge\bin\Debug\netcoreapp2.0\nAge.dll
+F:\TUGAS\S2\LTP\nAge\nAge\bin\Debug\netcoreapp2.0\nAge.pdb
+F:\TUGAS\S2\LTP\nAge\nAge\obj\Debug\netcoreapp2.0\nAge.csprojAssemblyReference.cache
+F:\TUGAS\S2\LTP\nAge\nAge\obj\Debug\netcoreapp2.0\nAge.csproj.CoreCompileInputs.cache
+F:\TUGAS\S2\LTP\nAge\nAge\obj\Debug\netcoreapp2.0\nAge.AssemblyInfoInputs.cache
+F:\TUGAS\S2\LTP\nAge\nAge\obj\Debug\netcoreapp2.0\nAge.AssemblyInfo.cs
+F:\TUGAS\S2\LTP\nAge\nAge\obj\Debug\netcoreapp2.0\nAge.dll
+F:\TUGAS\S2\LTP\nAge\nAge\obj\Debug\netcoreapp2.0\nAge.pdb
